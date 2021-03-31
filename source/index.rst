@@ -1,5 +1,5 @@
 
-Welcome to Alemira documentation playground's documentation!
+Welcome to Alemira LMS documentation!
 ============================================================
 
 .. toctree::
