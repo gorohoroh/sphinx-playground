@@ -1,10 +1,16 @@
 # Welcome to Alemira LMS documentation!
 
-Hello
+## Useful links
+* [Getting started with MyST](https://myst-parser.readthedocs.io/en/latest/using/intro.html) (a Markdown parser for Sphinx)
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Caption:
+
+```{toctree}
+   :maxdepth: 3
+   :caption: Caption
+   
+usage/installation.md
+usage/usage.md
+```
 
 ## Indices and tables
 
