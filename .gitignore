@@ -1,6 +1,11 @@
 # Sphinx build directory
 build
 
+# venv directories
+Include
+Lib
+Scripts
+
 # Logs
 logs
 *.log
