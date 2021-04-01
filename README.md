@@ -33,7 +33,7 @@ A standard Sphinx setup with Markdown to evaluate for Alemira
 
 * [x] Boostrap a Sphinx project
 * [x] Enable Markdown authoring
-* [ ] Understand and document how to use Sphinx directives
+* [x] Understand and document how to use Sphinx directives
 * [x] Provide required packages as requirements.txt (Ekaterina shouldn't need to run each pip command separately):
   ```
   pip install sphinx
@@ -41,5 +41,5 @@ A standard Sphinx setup with Markdown to evaluate for Alemira
   pip install myst-parser
   ```
 * [x] Document how to use this repository.
-* [ ] Provide syntax samples and links to syntax references and tutorials
+* [x] Provide syntax samples and links to syntax references and tutorials
 * [x] Enable auto-build on changes.
