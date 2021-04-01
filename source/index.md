@@ -6,7 +6,7 @@
 
 ```{toctree}
    :maxdepth: 3
-   :caption: Caption
+   :caption: Table of Contents
    
 usage/installation.md
 usage/usage.md
