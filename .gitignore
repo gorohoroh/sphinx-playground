@@ -1,10 +1,11 @@
 # Sphinx build directory
 build
 
-# venv directories
+# venv config and directories
 Include
 Lib
 Scripts
+pyvenv.cfg
 
 # Logs
 logs
